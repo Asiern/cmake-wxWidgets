@@ -5,7 +5,9 @@ project(foo)
 
 set(
     SOURCES
+    src/main.h
     src/main.cpp
+    src/mainWindow.h
     src/mainWindow.cpp
 )
 
